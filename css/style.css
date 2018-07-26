@@ -34,7 +34,23 @@ h4 {
 
 a {
   color: white;
-  font-size: 10px;
+  font-size: 18px;
+}
+
+.nav-item a .bottom {
+  padding-bottom: 10px;
+}
+
+#portfolio p {
+  margin-top: -15px;
+}
+
+#team p {
+  margin-top: -15px;
+}
+
+#contact p {
+  margin-top: -15px;
 }
 
 #footer {
@@ -45,6 +61,11 @@ a {
   color: white;
 }
 
+#footer p {
+  padding-left: 20px;
+}
+
 .ft-item {
   font-size: 14px;
+  padding: 5px;
 }
